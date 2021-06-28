@@ -1,0 +1,233 @@
+#title
+{
+  background-color:#ff4c68;
+  color: white;
+
+
+}
+body
+{
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+
+
+h1
+{
+  font-family: 'Montserrat';
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+h2
+{
+  font-family: 'Montserrat';
+  font-size: 3rem;
+  line-height: 1.5;
+}
+img
+{
+margin-bottom: 0 px;
+}
+.navbar-brand
+{
+  font-family: 'Ubuntu';
+  font-weight: bolder;
+  font-size: 2.5rem;
+  padding-right: 380px;
+}
+.navbar
+{
+  padding-bottom: 4.5rem;
+}
+.nav-item
+{
+  padding: 0 18px;
+}
+.download-button
+{
+  margin: 5% 3% 5% 0%;
+}
+.title-image
+{
+
+  transform: rotate(25deg);
+  position: absolute;
+  left: 60%;
+width: 25%;
+border-radius: 100%;
+}
+h3
+{
+  font: 'Montserrat-bold';
+  font-size: 1.5rem;
+}
+.para
+{
+  color: #8f8f8f;
+  margin-bottom: 10px;
+}
+.hi
+{
+  color: #ef8172;
+  padding-left: 100px;
+
+
+}
+.row
+{
+
+  padding-top: 100px;
+  width: 100%;
+}
+.second
+{
+  margin-left: 120px;
+}
+.third
+{
+    margin-left: 120px;
+}
+.first
+{
+    margin-left: 120px;
+}
+i:hover
+{
+  color: #ff4c68;
+}
+i
+{
+  size: 80px;
+
+}
+.details
+{
+  margin-left: 30px;
+margin-bottom: 10px;
+}
+#testimonials
+{
+
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+  margin-top: 100px;
+}
+.abcd
+{
+  border-radius: 100%;
+  margin: 20px;
+  width: 90px;
+}
+#press
+{
+  text-align: center;
+  background-color: #ef8172;
+  padding-bottom: 3%;
+}
+.efgh
+{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.carousel-item
+{
+    padding: 7% 15%;
+}
+#pricing
+{
+  padding: 100px;
+  text-align: center;
+}
+.prs
+{
+  padding: 3% 2%;
+}
+#features
+{
+  background-color: white;
+
+
+  height: 490px;
+  z-index: 1;
+margin-top: 0px;
+margin-bottom: 30px;
+}
+.container-fluid
+{
+  padding: 0% 10% 7%;
+}
+@media (max-width: 1028px)
+{
+  #title
+  {
+    text-align: center;
+  }
+  .title-image
+  {
+    position: static;
+    transform: rotate(0);
+  }
+}
+.hello
+{
+
+  height: 100px;
+
+align-items: center;
+}
+#cta
+{
+  background-color:#ff4c68;
+  color: white;
+height: 400px;
+}
+.true
+{
+  font-family: "Montserrat-solid";
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 60px;
+  text-align: center;
+  margin: 10 10 3  3;
+}
+.ends
+{
+  margin-left: 450px;
+}
+.endss
+{
+  margin-left: 40px;
+}
+.end
+{
+  margin-top: 30px;
+}
+#footer
+{
+  background-color: #fff;
+}
+.xyz
+{
+  margin-left: 650px;
+  margin-top: 70px;
+}
+.xyz1
+{
+  margin-left: 10px;
+}
+.xyz2
+{
+  margin-left: 10px;
+}
+.xyz3
+{
+  margin-left: 10px;
+}
+.final
+{
+  margin-left: 600px;
+  margin-top: 20px;
+}
